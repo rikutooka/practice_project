@@ -1,4 +1,4 @@
-package q01;
+package basic.q01;
 
 public class SubtractLoop {
 

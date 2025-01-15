@@ -1,4 +1,4 @@
-package q05;
+package basic.q05;
 
 public class FizzBuzz {
 

@@ -1,13 +1,13 @@
-package q03;
+package basic.q03;
 
 public class SumLoop {
 
 	public static void main(String[] args) {
-		int Num = 0;
+		int num = 0;
 		for (int i = 0; i <= 100; i++) {
-			Num = Num + i;
+			num = num + i;
 		}
-		System.out.print(Num);
+		System.out.print(num);
 	}
 
 }

@@ -1,4 +1,4 @@
-package q6;
+package basic.q6;
 
 public class ShowSeasons {
 
