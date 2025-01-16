@@ -22,7 +22,7 @@ public class sample {
         double testNum =10;
         System.out.println(testNum);
         
-        String name = "岡";
+//        String name = "岡";
         String name2 = "渡邊";
         
         //定数について

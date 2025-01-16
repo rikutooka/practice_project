@@ -5,7 +5,7 @@ public class Circle {
 		double radius = 5.0;
 		double sum = getCircleArea(radius);
 		System.out.println("半径:" + radius);
-		System.out.println("円の面積:" + radius * radius * 3.14);
+		System.out.println("円の面積:" + sum);
 	}
 
 	public static double getCircleArea(double radius) {
