@@ -3,14 +3,16 @@ package Method.q09;
 public class Even {
 	public static void main(String[] agrs) {
 		int num = 10;
-		checkEven(num);
+		String result = checkEven(num);
+		System.out.println(num + "は" + result + "です。");
 	}
 
-	public static void checkEven(int num) {
+	public static String checkEven(int num) {
 		if (num % 2 == 0) {
-			System.out.println(num + "は偶数です。");
+			return "偶数";
 		} else {
-			System.out.println(num + "は奇数です。");
+
+			return "奇数";
 		}
 	}
 }
